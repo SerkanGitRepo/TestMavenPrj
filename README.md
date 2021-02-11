@@ -6,7 +6,7 @@ Serenity strongly encourages good test automation design, and supports several d
 
 The latest version of Serenity supports both Cucumber 2.4 and the more recent Cucumber 4.x. Cucumber 4 is not backward compatible with Cucumber 2. This article walks you through how to get started with Serenity and Cucumber 4, and also gives you a quick introduction to some of Cucumber 4’s new features.
 
-## Get the code
+## Get the codex
 
 Git:
 
