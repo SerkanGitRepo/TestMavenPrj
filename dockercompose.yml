@@ -10,7 +10,7 @@ services:
 #     container_name: selenium-event-bus
 #     ports:
 #       - "4442:4442"
-#       - "4443:4443"
+#       - "4443:4443" 
 #       - "5557:5557"
 
   selenium-sessions:
