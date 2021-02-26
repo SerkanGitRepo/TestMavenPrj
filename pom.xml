@@ -17,6 +17,7 @@
         <cucumber.version>5.5.0</cucumber.version>
         <encoding>UTF-8</encoding> 
         <tags></tags>
+        <parallel>all</parallel>
         <parallel.tests>4</parallel.tests>
         <webdriver.base.url></webdriver.base.url>
     </properties> 
